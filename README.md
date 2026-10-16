@@ -1,6 +1,6 @@
 # Get-Out-of-Gandi
 
-An HTML converter that lets you share your Gandi IDE projects more easily.
+An HTML converter that lets you share your Gandi IDE projects more easily on platforms like **itch.io**.
 
 Gandi IDE is an amazing Scratch mod, but sharing projects outside its own ecosystem isn't always straightforward. Until now, getting an embedded project to work in a standalone HTML file has been a bit of a hassle.
 
